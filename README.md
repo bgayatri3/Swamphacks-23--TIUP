@@ -1,4 +1,4 @@
-# Swamphacks-23--TIUP
+# Swamphacks-23--TIYUP
 Tap into your Unknown Productivity 
 
 Welcome to our project submission for the 2023 Swamp Hacks Hackathon. Our project is curated for students and focuses on reducing burnout, anxiety, and stress. 
