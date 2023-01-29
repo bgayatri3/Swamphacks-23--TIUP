@@ -81,7 +81,7 @@ def workperiod():
 			if event.type == pygame.USEREVENT and started:
 				current_seconds +=1 # -= 1
 
-		SCREEN.fill("#ba4949")
+		SCREEN.fill("#F0A996")
 		SCREEN.blit(BACKDROP, BACKDROP.get_rect(center=(WIDTH/2, HEIGHT/2)))
 
 		START_PAUSE_BUTTON.update(SCREEN)
